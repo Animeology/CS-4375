@@ -5,8 +5,4 @@
 	- Random Forest: Many decision tree broken up into several sections
 	- Scalar: scales the test model to be equal, don't use it on decision trees
 	- SVM (Support Vector Machine): boundary line that divide different data sets
-	- Closed Book, Closed Notes, Closed Internet
-	- Closed Google Colab
-	- Closed Jupyter
-	- On paper
-On Thursday, Nov 3
+    - PCA (Principle Component Attribure): get rid of attributes that don't contribute as much to the dataset, only usage
