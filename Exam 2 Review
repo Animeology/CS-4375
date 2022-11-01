@@ -1,0 +1,12 @@
+	- Linear Regression: Predict an continuous value
+	- Logistic Regression: Predict an category/Discrete value
+	- Cross Validation: To see which one is the better model
+	- Decision Tree: One tree per section
+	- Random Forest: Many decision tree broken up into several sections
+	- Scalar: scales the test model to be equal, don't use it on decision trees
+	- SVM (Support Vector Machine): boundary line that divide different data sets
+	- Closed Book, Closed Notes, Closed Internet
+	- Closed Google Colab
+	- Closed Jupyter
+	- On paper
+On Thursday, Nov 3
